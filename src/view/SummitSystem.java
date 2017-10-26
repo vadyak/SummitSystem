@@ -52,7 +52,7 @@ public class SummitSystem {
 //        Leader.registration("Vadim", "vasos1", "2239");
 //        Leader.registration("Vadim", "vasos2", "2239");
 //        Leader.registration("Vadim", "vasos3", "2239");
-//        Admin.registration("admin", "admin1", "1111");
+        Admin.registration("admin", "admin1", "1111");
 //
 //        Leader leader = Leader.authorization("vasos", "2239");
 //        Leader leader2 = Leader.authorization("vasos1", "2239");
